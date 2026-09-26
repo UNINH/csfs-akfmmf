@@ -1,0 +1,17 @@
+{
+  "snapshot_id": "DGA-IEC167-FORMAL-v2-frozen-IEC-source",
+  "created_date": "2026-08-28",
+  "scope": "IEC 167 records only",
+  "source_workbook": {
+    "name": "IE_DGA.xlsx",
+    "selected_data_rows": [1, 167],
+    "original_path": "F:\\fangao\\kalman_fault_diagnosis_merged\\IE_DGA.xlsx",
+    "sha256": "2aff83a547c7f3302d50638d09c692dfdd645006156a812197931533c5dab1f9"
+  },
+  "snapshot_sha256": {
+    "iec_167.csv": "b55b3a38be2aaa7b1ce186329eeb21a587e59a7df8faf8b251848af4b477e972"
+  },
+  "sample_count": 167,
+  "class_counts": {"TF": 34, "PD": 9, "AF": 74, "NC": 50},
+  "runtime_rule": "Only iec_167.csv is read at runtime; no self-constructed or merged-project runtime input is used."
+}
